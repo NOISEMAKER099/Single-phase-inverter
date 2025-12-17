@@ -21,14 +21,14 @@ No proprietary schematics, firmware, PCB layouts, or company documents are inclu
 
 ## System Block Diagram
 
-![System Block Diagram](block_diagram.png)
+![System Block Diagram](diagrams/block_diagram.png)
 
 --
 
 
 ## Documentation
 
-- [System Overview](system_overview.md)
+- [System Overview](docs/system_overview.md)
 
 --
 
