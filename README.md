@@ -30,6 +30,7 @@ No proprietary schematics, firmware, PCB layouts, or company documents are inclu
 
 - [System Overview](docs/system_overview.md)
 - [Inverter Working Principle](docs/inverter_working.md)
+![SCR Driver Gate Pulse](../diagrams/scr_driver_gate_pulse.png)
 
 --
 
