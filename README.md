@@ -19,6 +19,13 @@ No proprietary schematics, firmware, PCB layouts, or company documents are inclu
 
 ---
 
+## System Block Diagram
+
+![System Block Diagram](block_diagram.png)
+
+--
+
+
 ## Tools & Concepts
 
 - Power electronics system design
