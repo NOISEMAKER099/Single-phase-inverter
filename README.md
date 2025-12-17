@@ -29,6 +29,7 @@ No proprietary schematics, firmware, PCB layouts, or company documents are inclu
 ## Documentation
 
 - [System Overview](docs/system_overview.md)
+- [Inverter Working Principle](docs/inverter_working.md)
 
 --
 
