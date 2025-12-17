@@ -26,6 +26,12 @@ No proprietary schematics, firmware, PCB layouts, or company documents are inclu
 --
 
 
+## Documentation
+
+- [System Overview](system_overview.md)
+
+--
+
 ## Tools & Concepts
 
 - Power electronics system design
