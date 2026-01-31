@@ -12,6 +12,4 @@ industrial or proprietary designs.
 - Verifying timing and pulse integrity
 - Learning-based validation using simulation tools
 
-
-## Simulink Model
-![Half-Bridge Inverter Simulink Model](Simulink/screenshots/half-bridge_inverter.png)
+![Half-Bridge Inverter Simulink Model](Simulink/screenshots/half-bridge inverter.png)
