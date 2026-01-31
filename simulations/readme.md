@@ -18,3 +18,20 @@ industrial or proprietary designs.
 
 
 ![Half-Bridge Inverter Simulink Model](Simulink/screenshots/half_bridge_inverter.png)
+
+
+## Dead-Time Consideration
+
+In practical half-bridge and full-bridge inverters, a small delay
+(dead-time) is introduced between the turn-off of one switch and the
+turn-on of its complementary switch.
+
+### Purpose
+- Prevents shoot-through of the DC bus
+- Accounts for finite switch turn-off time
+- Improves reliability of power devices
+
+### Model Note
+The current model uses ideal complementary gating for conceptual
+clarity. Dead-time insertion will be added in a refined version of the
+control logic.
