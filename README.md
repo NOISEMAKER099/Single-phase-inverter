@@ -21,7 +21,7 @@ No proprietary schematics, firmware, PCB layouts, or company documents are inclu
 
 ## System Block Diagram
 
-![System Block Diagram](diagrams/block_diagram.png)
+![System Block Diagram](diagrams/block_diagram.jpg)
 
 ## Documentation
 
