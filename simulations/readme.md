@@ -35,3 +35,18 @@ turn-on of its complementary switch.
 The current model uses ideal complementary gating for conceptual
 clarity. Dead-time insertion will be added in a refined version of the
 control logic.
+
+## Model Limitations and Scope
+
+This Simulink model is intentionally kept ideal and simplified to
+focus on the fundamental operating principle of a half-bridge inverter
+and SPWM control.
+
+The following aspects are not included in the current model:
+- Dead-time insertion
+- Device non-idealities and switching losses
+- EMI and thermal stress analysis
+- Closed-loop voltage or current control
+
+These aspects are typically addressed during detailed design and
+hardware validation stages.
