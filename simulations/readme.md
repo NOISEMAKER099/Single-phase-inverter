@@ -12,5 +12,9 @@ industrial or proprietary designs.
 - Verifying timing and pulse integrity
 - Learning-based validation using simulation tools
 
+- `Scripts/parameters.m` – Centralized electrical and control parameters
+> The Simulink model is parameterized using an external MATLAB script
+> to allow easy tuning of DC voltage, switching frequency, and load.
+
 
 ![Half-Bridge Inverter Simulink Model](Simulink/screenshots/half_bridge_inverter.png)
