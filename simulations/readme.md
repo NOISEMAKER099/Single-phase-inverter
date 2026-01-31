@@ -14,4 +14,4 @@ industrial or proprietary designs.
 
 
 ## Simulink Model
-![Half-Bridge Inverter Simulink Model](Simulink/screenshots/half_bridge_model.png)
+![Half-Bridge Inverter Simulink Model](Simulink/screenshots/half-bridge_model.png)
