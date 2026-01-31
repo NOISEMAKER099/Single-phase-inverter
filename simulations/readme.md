@@ -11,3 +11,7 @@ industrial or proprietary designs.
 - Observing gate pulse waveforms
 - Verifying timing and pulse integrity
 - Learning-based validation using simulation tools
+
+
+## Simulink Model
+![Half-Bridge Inverter Simulink Model](screenshots/half_bridge_model.png)
