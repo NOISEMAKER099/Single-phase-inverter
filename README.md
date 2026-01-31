@@ -38,6 +38,30 @@ No proprietary schematics, firmware, PCB layouts, or company documents are inclu
 - SCR and IGBT driver fundamentals
 - SMPS-based auxiliary power generation
 
+
+---
+
+## Simulations
+
+This repository includes **conceptual and educational simulations**
+used to validate and understand the working principles of the
+single-phase inverter system.
+
+### Simulink Simulation
+- Half-bridge DC–AC inverter topology
+- Sinusoidal PWM (SPWM) based control
+- Parameterized model using external MATLAB scripts
+- Output voltage and current waveform analysis
+
+📁 Location: `simulations/Simulink/`  
+📄 Documentation: [Simulink Simulation README](simulations/Simulink/README.md)
+
+### Scope and Limitations
+- Ideal switches and control logic
+- No dead-time or protection logic included
+- Intended for learning and concept validation only
+
+
 ---
 
 ## Disclaimer
