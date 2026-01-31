@@ -26,3 +26,29 @@ R&D internship.
 This simulation is intended for conceptual understanding and
 validation of inverter operation and control principles.
 It is not a complete industrial implementation.
+
+# Simulink Simulations
+
+This folder contains conceptual and educational simulations used to
+understand the working principles of power electronic systems.
+
+The content is non-confidential and does not represent industrial or
+proprietary designs.
+
+## Scope
+- Understanding switching behavior
+- Observing gate pulse waveforms
+- Verifying timing and pulse integrity
+- Learning-based validation using simulation tools
+
+## Simulink Model
+![Half-Bridge Inverter Simulink Model](screenshots/half_bridge_inverter.png)
+
+## Simulation Results
+
+### Output Voltage
+![Inverter Output Voltage](screenshots/output_voltage.png)
+
+### Output Current
+![Inverter Output Current](screenshots/output_current.png)
+
