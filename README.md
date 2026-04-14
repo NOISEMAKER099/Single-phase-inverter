@@ -1,4 +1,4 @@
-# Single Phase DC–AC Inverter – Internship Project
+# Single Phase DC–AC Inverter – Reaserch Project
 
 This repository documents the **system-level design and working principles**
 of a **Single-Phase DC–AC Inverter** developed during my R&D internship.
